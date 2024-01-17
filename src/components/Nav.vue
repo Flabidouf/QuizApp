@@ -7,7 +7,6 @@
     <div>
         <header>
         <RouterLink class="RouterLink" active-class="active" to="/">Home</RouterLink>
-        <RouterLink class="RouterLink" active-class="active" to="/quiz">Liege Quiz</RouterLink>
         </header>
         
     </div>

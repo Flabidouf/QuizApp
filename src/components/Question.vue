@@ -35,7 +35,6 @@ const emitSelectedOption = (isCorrect) => {
 </template>
 
 <style scoped>
-
 .question-container{
         margin-top: 20px;
     }
